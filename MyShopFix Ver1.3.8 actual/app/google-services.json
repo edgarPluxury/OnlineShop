@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "521598397060",
+    "firebase_url": "https://myshopfix-9787f-default-rtdb.firebaseio.com",
+    "project_id": "myshopfix-9787f",
+    "storage_bucket": "myshopfix-9787f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521598397060:android:3d1075069fbc334a1d30d1",
+        "android_client_info": {
+          "package_name": "com.example.myshopfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521598397060-3o9sefc4o2quvde86kn0p2nfsokjn99p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDecOfHMpmAQf_wkPpy0he8dosCgwCKFEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521598397060-3o9sefc4o2quvde86kn0p2nfsokjn99p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
